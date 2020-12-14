@@ -3,7 +3,7 @@ Just use my helloworldx86 folder as your template for your nasm projects in wind
 
 ![alt text](run_build_task.png)
 
-I added my own pattern-matcher in tasks.json for nasm errors & warning. Now you can see the problems window
+I added my own pattern-matcher in tasks.json for nasm errors & warning. Now you can see the "PROBLEMS" VSCODE-Window
 
 # my setup
 
