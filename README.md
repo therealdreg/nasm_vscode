@@ -17,14 +17,13 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 https://docs.microsoft.com/en-us/windows/terminal/get-started
 
-
 cat ~/.zshrc 
 ```
 ...
 alias explorer='/mnt/c/Windows/explorer.exe `wslpath -w "$PWD"`'
 ```
 
-Terminal Shell Extension
+Terminal Shell Extension (copy with .reg extension and just execute it)
 ```
 Windows Registry Editor Version 5.00
 
@@ -54,3 +53,5 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminalAdmin\command]
 @="PowerShell -WindowStyle Hidden -Command \"Start-Process wt -ArgumentList '-d','.' -Verb runAs\""
 ```
+
+![alt text](my_windows_setup.png)
