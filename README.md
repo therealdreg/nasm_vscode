@@ -7,13 +7,10 @@ I added my own pattern-matcher in tasks.json for nasm errors & warning. Now you 
 
 # my setup
 
-## VSCODE Extensions
-
-Remote - WSL: ms-vscode-remote.remote-wsl - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
-
-The Netwide Assembler (NASM): rights.nas-vscode - https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode
-
-x86 and x86_64 Assembly: 13xforever.language-x86-64-assembly - https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly
+VSCODE Extensions:
+* Remote - WSL: ms-vscode-remote.remote-wsl - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+* The Netwide Assembler (NASM): rights.nas-vscode - https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode
+* x86 and x86_64 Assembly: 13xforever.language-x86-64-assembly - https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly
 
 https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/
 
