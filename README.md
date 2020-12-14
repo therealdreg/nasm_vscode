@@ -5,6 +5,12 @@ Just use the helloworldx86 folder as your template for your nasm projects in win
 
 # my setup
 
+## VSCODE Extensions
+
+Remote - WSL: ms-vscode-remote.remote-wsl - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+
+The Netwide Assembler (NASM): rights.nas-vscode - https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode
+
 https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
