@@ -13,6 +13,8 @@ Remote - WSL: ms-vscode-remote.remote-wsl - https://marketplace.visualstudio.com
 
 The Netwide Assembler (NASM): rights.nas-vscode - https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode
 
+x86 and x86_64 Assembly: 13xforever.language-x86-64-assembly - https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly
+
 https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
