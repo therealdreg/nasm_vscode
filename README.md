@@ -1,7 +1,9 @@
 # nasm_vscode
-Just use the helloworldx86 folder as your template for your nasm projects in windows 32/64 & linux 32/64. Press F1 in Visual Studio Code and run Task Build:
+Just use my helloworldx86 folder as your template for your nasm projects in windows 32/64 & linux 32/64. Press F1 in Visual Studio Code and run Task Build:
 
 ![alt text](run_build_task.png)
+
+I added my own pattern-matcher in tasks.json for nasm errors & warning. Now you can see the problems window
 
 # my setup
 
