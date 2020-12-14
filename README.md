@@ -1,2 +1,4 @@
 # nasm_vscode
-nasm visual studio code
+Just use the helloworldx86 folder as your template for nasm projects in windows & linux:
+
+![alt text](run_build_task.png)
