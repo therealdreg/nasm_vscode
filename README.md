@@ -56,3 +56,5 @@ Windows Registry Editor Version 5.00
 ```
 
 ![alt text](my_windows_setup.png)
+
+To fix chars in terminal VSCODE, go to File -> Preferences -> Settings -> Features -> Terminal -> (scroll down) Integrated Font Family: DejaVu Sans Mono for Powerline
